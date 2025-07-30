@@ -1,4 +1,6 @@
-Aspiring Data Scientist/Developer: Machine Learning, Business Intelligence. Hands-on experience with Python, SQL, Google Cloud, AWS, Power BI, Tableau.
+Hi, This is Maulik, I am aspiring Data Scientist/Software Developer.
+
+I'm currently working on finishing Google Advanced Data Analytics Certificate with Coursera.
 
 <!--
 **MaulikDave9/MaulikDave9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
