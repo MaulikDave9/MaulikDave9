@@ -1,6 +1,9 @@
 Hi, This is Maulik, I am aspiring Data Scientist/Software Developer.
 
-I'm currently working on finishing Google Advanced Data Analytics Certificate with Coursera.
+Currently, I am focusing on the Deep Learning with Python (by François Chollet).
+
+I recently finished Google Advanced Data Analytics Professional Certificate with Coursera. 
+It focused on the statistical analysis, Python, regression models, and machine learning.
 
 <!--
 **MaulikDave9/MaulikDave9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
