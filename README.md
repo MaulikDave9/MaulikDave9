@@ -1,6 +1,6 @@
 Hi, This is Maulik, I am aspiring Data Scientist/Software Developer.
 
-Currently, I am focusing on the PyTorch For Deep Learning skill building.
+Currently, I am focusing on the PyTorch For Deep Learning.
 
 I recently finished Google Advanced Data Analytics Professional Certificate with Coursera. 
 It focused on the statistical analysis, Python, regression models, and machine learning.
