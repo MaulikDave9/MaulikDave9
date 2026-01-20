@@ -1,8 +1,11 @@
 Hi, This is Maulik, I am aspiring Data Scientist/Software Developer.
 
-Currently, I am focusing on the PyTorch For Deep Learning.
+I am passionate about Computer Vision projects with Deep Learning technology. And recently worked on:
+https://github.com/MaulikDave9/Projects/tree/main/Fruits-360
 
-I recently finished Google Advanced Data Analytics Professional Certificate with Coursera. 
+Currently, I am focusing on building skills with PyTorch framework For Deep Learning. 
+
+I finished Google Advanced Data Analytics Professional Certificate with Coursera in 2025. 
 It focused on the statistical analysis, Python, regression models, and machine learning.
 
 <!--
