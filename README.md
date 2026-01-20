@@ -1,6 +1,6 @@
 Hi, This is Maulik, I am aspiring Data Scientist/Software Developer.
 
-I am passionate about Computer Vision projects with Deep Learning technology. And implemented CNN and ViT Multi-class image classfier. 
+I am passionate about Computer Vision projects with Deep Learning technology. And recently implemented Multi-class Image Classification on Fruits-360 Dataset:
 https://github.com/MaulikDave9/Projects/tree/main/Fruits-360
 
 I am focusing on building skills with PyTorch framework For Deep Learning recently. 
