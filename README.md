@@ -1,9 +1,10 @@
-Hi, This is Maulik, I am aspiring Data Scientist/Software Developer.
+Hi, This is Maulik, I am aspiring AI Engineer/Software Developer.
 
 I am passionate about Computer Vision and Deep Learning. Recently I implemented Multi-class Image Classification on the Kaggle Fruits-360 Dataset:
 https://github.com/MaulikDave9/Projects/tree/main/Fruits-360
 
 Currently, I am focusing on building skills with PyTorch framework For Deep Learning, pursuing Coursera Certification "PyTorch with Deep Learning".
+I am also learning to work with Large Language Models (LLMs) and RAG systems.  
 
 I finished Google Advanced Data Analytics Professional Certificate (Coursera) in 2025. 
 It focused on the statistical analysis, Python, regression models, and machine learning.
