@@ -1,7 +1,6 @@
 Hi, This is Maulik, I am aspiring AI Engineer/Software Developer.
 
-Currently, I am focusing on building skills as ML/AI Engineer in Google Cloud Platform (GCP) technology stack and PyTorch framework For Deep Learning.
-Also, working on projects around Gen AI - Large Language Models (LLMs) and RAG systems.  
+I am currently focused on building expertise as an ML/AI Engineer, specializing in the Google Cloud Platform (GCP) technology stack and the PyTorch framework for deep learning. I’m also working on projects related to Generative AI, including Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems. 
 
 I am passionate about Computer Vision and Deep Learning. Recently I implemented Multi-class Image Classification on the Kaggle Fruits-360 Dataset:
 https://github.com/MaulikDave9/Projects/tree/main/Fruits-360
