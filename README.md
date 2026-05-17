@@ -4,7 +4,7 @@ I am currently focused on building expertise as an ML/AI Engineer, specializing 
 
 I am passionate about Computer Vision and Deep Learning. Recently I implemented 
 * Predict the Product Category (Multi Class) using a fusion of product images and text descriptions with the dataset
-  Amazon Berkeley Objects (ABO) Dataset: https://github.com/MaulikDave9/Projects/tree/main/
+  Amazon Berkeley Objects (ABO) Dataset: https://github.com/MaulikDave9/Projects/tree/main/MultimodalProductClassfication
 * Multi-class Image Classification on the Kaggle Fruits-360 Dataset: https://github.com/MaulikDave9/Projects/tree/main/Fruits-360
 
 I finished Google Advanced Data Analytics Professional Certificate (Coursera) in 2025. 
