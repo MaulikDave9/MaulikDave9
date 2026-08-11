@@ -1,14 +1,14 @@
-Hi, This is Maulik, I am aspiring AI Engineer.
+Hi, This is Maulik, I am ML/AI Engineer.
 
-I am currently building expertise as an ML/AI Engineer, specializing in the Google Cloud Platform (GCP) technology stack and the PyTorch framework for deep learning. I have also working on projects related to Generative AI, including Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems. 
+My expertise are an ML/AI Engineer, specializing in the Google Cloud Platform (GCP) technology stack and the PyTorch framework for deep learning. I have also working on projects related to Generative AI, including Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems. 
 
 I am passionate about Computer Vision and Deep Learning. Recently I implemented 
 * Predict the Product Category (Multi Class) using a fusion of product images and text descriptions with the 
   Amazon Berkeley Objects (ABO) Dataset: https://github.com/MaulikDave9/Projects/tree/main/MultimodalProductClassfication
 * Multi-class Image Classification on the Kaggle Fruits-360 Dataset: https://github.com/MaulikDave9/Projects/tree/main/Fruits-360
 
-I am working on finishing PyTorch for Deep Learning Professional Certificate - focusing on bulding Deep Learning Models from scratch. 
-I finished Google Advanced Data Analytics Professional Certificate.  It focused on the statistical analysis, Python, regression models, and machine learning.
+I recently finishing PyTorch for Deep Learning Professional Certificate - focusing on Building and training the deep learning models using PyTorch, understanding the core components that power modern AI systems. 
+I also finished Google Advanced Data Analytics Professional Certificate.  It focused on the statistical analysis, Python, regression models, and machine learning.
 
 <!--
 **MaulikDave9/MaulikDave9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
