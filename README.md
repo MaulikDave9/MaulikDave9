@@ -1,6 +1,6 @@
 Hi, This is Maulik, I am ML/AI Engineer.
 
-My expertise are ML/AI, specializing in the Google Cloud Platform (GCP) technology stack and the PyTorch framework for deep learning. I have also working on projects related to Generative AI, including Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems. 
+My expertise are ML/AI, specializing in the Google Cloud Platform (GCP) technology stack and the PyTorch framework for deep learning. I am also working on projects related to Generative AI, including Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems. 
 
 I am passionate about Computer Vision and Deep Learning. Recently I implemented 
 * Predict the Product Category (Multi Class) using a fusion of product images and text descriptions with the 
